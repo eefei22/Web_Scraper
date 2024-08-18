@@ -1,1 +1,2 @@
 https://github.com/gigafide/basic_python_scraping/blob/main/basic_scrape_csv_export.py
+https://www.youtube.com/watch?v=XVv6mJpFOb0
